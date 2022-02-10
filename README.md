@@ -1,8 +1,8 @@
 # criticalpath
 ECE 474 Assignment 1
 
-Team Members: Sean Farris
-              Dario Salinas
+Team Members: Sean Farris,
+              Dario Salinas,
               Leslie Ibarra
 
 Vivado Synthesis 2018.2
